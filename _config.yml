@@ -12,9 +12,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lucas Gamertsfelder"
 description              : &description "Applied Mathematician"
-url                      : https://lucas-gam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lucasgamertsfelder.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lucas-gam/lucas-gam.github.io"
+repository               : "lucasgamertsfelder/lucasgamertsfelder.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Lucas-Gam"
+  github           : "LucasGamertsfelder"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
