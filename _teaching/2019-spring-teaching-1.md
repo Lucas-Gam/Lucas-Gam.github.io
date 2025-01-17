@@ -1,10 +1,10 @@
 ---
 title: "Teaching Experience 1"
 collection: teaching
-type: "Undergraduate courses"
+type: "Undergraduate courses 2019 - 2022"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Macquarie University, Department of Mathematics and Statistics"
-date: "2019-07-30 - 2022-12-01"
+date: #"2019-07-30 - 2022-12-01"
 location: "Sydney, Australia"
 ---
 
