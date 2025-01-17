@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2019-spring-teaching-1
+venue: "Macquarie University, Department of Mathematics and Statistics"
+date: 2019-07-30 - 2022-12-01
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Discrete Mathematics - DMTH137
+- Mathematics IA - MATH132
+- Mathematics IB - MATH133
+- Mathematics IIA - MATH235
+- Mathematics IIB - MATH236
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
