@@ -15,7 +15,7 @@ Education
 * M.S. in Geodynamic Modelling, Macquarie University, 2017
 * B.S. in Mathematics, Flinders University, 2016
 
-Work experience
+<!-- Work experience
 ======
 * March 2022 - October 2023: Quantitative Analyst
   * Deloitte Touche Tohmatsu LTD  
@@ -23,7 +23,7 @@ Work experience
   
 * July 2019 - March 2022: Casual Academic
   * Macquarie University
-  * Duties: tutoring and marking
+  * Duties: tutoring and marking -->
 
 <!-- Interests
 ======
